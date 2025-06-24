@@ -52,7 +52,7 @@
       .p-4.p-md-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/E_fZRzOD6bE?si=3GE4DTRlIaZUg2-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/nBBzGFiuDRQ?si=J6HjsAQNx5VlrDRa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     #t_2_3.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.3] Los medios de vida y su incidencia en las infancias rurales
