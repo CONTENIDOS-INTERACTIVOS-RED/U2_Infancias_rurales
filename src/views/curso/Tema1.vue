@@ -199,6 +199,23 @@
                   i.far.fa-arrow-alt-circle-right.color-1
                   p.mb-0 No hay límites ni control de las emociones de los niños. 
           tr
+            td.text-bold Padres democráticos
+            td 
+              ul.lista-ul--color            
+                li.d-flex
+                  i.far.fa-arrow-alt-circle-right.color-1
+                  p.mb-0 Libertad con ciertos límites de los niños.
+                li.d-flex
+                  i.far.fa-arrow-alt-circle-right.color-1
+                  p.mb-0 Realiza acciones divertidas, pero también tiene responsabilidades y compromisos.
+                li.d-flex
+                  i.far.fa-arrow-alt-circle-right.color-1
+                  p.mb-0 Las reglas se establecen desde el diálogo niño - adulto.
+                li.d-flex
+                  i.far.fa-arrow-alt-circle-right.color-1
+                  p.mb-0 El niño siente el apoyo de sus padres, expresa opiniones, muestra emociones y expresa sus ideas libremente.
+                   
+          tr
             td.text-bold Padres negligentes 
             td 
               ul.lista-ul--color            
